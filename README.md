@@ -1,4 +1,4 @@
-Futures Trading Algorithm 
+# Futures Trading Algorithm 
 Murad Haider: m_haider3@u.pacific.edu
 
 Project Description
@@ -10,7 +10,7 @@ Hardware: A computer with Windows 10 or higher.
 Software:
 a. NinjaTrader 8 64-bit software.
 b. Rithmic Trader software for monitoring the prop firm account.
-      3.   Prop Firm Account: We will need to have access to a prop firm account to connect to our   system and enable the algorithm to execute trades.
+Prop Firm Account: We will need to have access to a prop firm account to connect to our   system and enable the algorithm to execute trades.
 Strategy Builder: We will use the NinjaTrader 8 Strategy Builder to create and customize our trading strategy.
 NinzaRenkos (candle type free download)
 UniRenkos (candle type free download)
