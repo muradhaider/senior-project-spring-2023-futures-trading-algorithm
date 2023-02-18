@@ -1,4 +1,4 @@
-Project Apocalypse
+Futures Trading Algorithm 
 Murad Haider: m_haider3@u.pacific.edu
 
 Project Description
