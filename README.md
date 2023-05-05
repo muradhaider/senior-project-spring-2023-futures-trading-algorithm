@@ -26,8 +26,7 @@ Open the chart you wish to apply the strategy to.
 Select the Strategies button and enable the strategy you want to apply.
 The algorithm will automatically apply the trading signals to the market data and execute trades based on the predetermined entry and exit conditions.
 
-
-#Special Notes
+# Special Notes
 I have mnade some adjustments and finalized some of the things we will be using. I removed the UniRenkos as I have identified that for this strategy the ninzaRenkos do a much better job of filtering the trend and chop. There is also no need for stochastic conditions as they are not smooth and lag behind the conditions for entry so using them is not as viable as I had thought. We also included an ATR trailing stop which is subject to change with a little more testing but is the best for the current strategy optimization. 
 I have found that when in choppy conditions although we do a very good job at filtering, there are many cases where we can still struggle to reach the profit target per trade. Thus being said after doing some testing on NQ instead of ES there is a lot more volatility regardless of the chop allowing the price to deliver to the full PT. This is something to keep an eye on an watch for as NQ can be much better to automate sometimes in comparison to ES. 
 
